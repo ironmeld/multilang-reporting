@@ -1,0 +1,32 @@
+All files in this project are licensed under the Apache License,
+Version 2.0 [1] and MIT license [2], at your option.
+
+   Copyright 2020 Richard R. Masters and Contributors
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use any file in this project except in compliance with
+   the License. You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Under the definitions of the Apache 2.0 license:
+Unless You explicitly state otherwise, any Contribution intentionally
+submitted for inclusion in the Work by You to the Licensor shall be under the
+terms and conditions of the Licenses above, without any additional terms
+or conditions. (Per the second sentence of Section 5 of the Apache 2.0 license,
+this term for contributions is not superseded by the first sentence of
+Section 5 of the Apache 2.0 license.)
+
+Side Note: This dual licensing strategy is the same as that used by the Rust
+project, the Racket project, and many others [3]
+
+[1] See file LICENSE-APACHE (original at https://www.apache.org/licenses/LICENSE-2.0)
+[2] See file LICENSE-MIT (original at https://opensource.org/licenses/MIT)
+[3] https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952
+    https://blog.racket-lang.org/2019/11/completing-racket-s-relicensing-effort.html
